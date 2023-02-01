@@ -2,7 +2,7 @@
 # Martin Srebotnjak <miles@filmsi.net>, 2016.
 msgid ""
 msgstr ""
-"Project-Id-Version: Collabora Online - Help\n"
+"Project-Id-Version: CO Clone - Help\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-01 00:10+0200\n"
 "PO-Revision-Date: 2023-01-22 13:13+0000\n"

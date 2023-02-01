@@ -1,7 +1,7 @@
 /* Version-related variables */
 
-/* Collabora Online WebSocket server version */
+/* CO Clone WebSocket server version */
 #undef COOLWSD_VERSION
 
-/* Collabora Online git hash if present */
+/* CO Clone git hash if present */
 #undef COOLWSD_VERSION_HASH

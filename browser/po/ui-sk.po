@@ -1700,7 +1700,7 @@ msgstr ""
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
 
@@ -2495,7 +2495,7 @@ msgid "Creating copy..."
 msgstr "Vytváranie kópie..."
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
+msgid "CO Clone Welcome"
 msgstr ""
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
@@ -2505,8 +2505,8 @@ msgstr "Zoznámte sa s novou verziou %coolVersion"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
-msgstr "Collabora Online Development Edition"
+msgid "CODE Clone"
+msgstr "CODE Clone"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
 msgid ""
@@ -2525,7 +2525,7 @@ msgstr "Zoznámte sa so všetkými zmenami"
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 
@@ -2621,8 +2621,8 @@ msgstr ""
 #~ "paneli, prepracovanom zozname avatarov používateľov, asynchrónnom ukladaní, "
 #~ "rýchlejšej kontrole pravopisu a ďalších zmenách."
 
-#~ msgid "Integrate Collabora Online into your webapp"
-#~ msgstr "Integrujte aplikáciu Collabora Online do svojej webovej aplikácie"
+#~ msgid "Integrate CO Clone into your webapp"
+#~ msgstr "Integrujte aplikáciu CO Clone do svojej webovej aplikácie"
 
 #~ msgid "Or get involved in the development"
 #~ msgstr "Alebo sa zapojte do vývoja"
@@ -2630,7 +2630,7 @@ msgstr ""
 #, javascript-format
 #~ msgid ""
 #~ "Learn more about integrating into your web application in the <a href="
-#~ "\"%coolSdkURL\" target=\"_blank\">Collabora Online SDK</a>. Or head over to "
+#~ "\"%coolSdkURL\" target=\"_blank\">CO Clone SDK</a>. Or head over to "
 #~ "the <a href=\"%coolStepByStepURL\" target=\"_blank\">step-by-step "
 #~ "instructions</a> and build CODE from scratch. You can also help out with <a "
 #~ "href=\"%coolTranslationsURL\" target=\"_blank\">translations</a> or by <a "
@@ -2638,7 +2638,7 @@ msgstr ""
 #~ "all the essential steps on how to reproduce it."
 #~ msgstr ""
 #~ "Informácie o integrácii webovej aplikácie nájdete na stránke <a href=\"%"
-#~ "coolSdkURL\" target=\"_blank\">Collabora Online SDK</a>. Prostredníctvom <a "
+#~ "coolSdkURL\" target=\"_blank\">CO Clone SDK</a>. Prostredníctvom <a "
 #~ "href=\"%coolStepByStepURL\" target=\"_blank\">názorných postupov</a> možno "
 #~ "CODE zostaviť od nuly. Pomôcť môžete aj s <a href=\"%coolTranslationsURL\" "
 #~ "target=\"_blank\">prekladmi</a> alebo <a href=\"%coolBugreportURL\" target=\""
@@ -2721,8 +2721,8 @@ msgstr ""
 #~ msgid "Server is recycling and will be available shortly"
 #~ msgstr "Server bude reštartovaný a o chvíľu bude opäť dostupný"
 
-#~ msgid "Oops, there is a problem connecting to Collabora Online : "
-#~ msgstr "Vyskytol sa problém s pripojením k Collabora Online: "
+#~ msgid "Oops, there is a problem connecting to CO Clone : "
+#~ msgstr "Vyskytol sa problém s pripojením k CO Clone: "
 
 #~ msgid "Number of views"
 #~ msgstr "Počet zobrazení"

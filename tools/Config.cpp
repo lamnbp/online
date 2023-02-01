@@ -109,7 +109,7 @@ void Config::displayHelp()
     HelpFormatter helpFormatter(options());
     helpFormatter.setCommand(commandName());
     helpFormatter.setUsage("COMMAND [OPTIONS]");
-    helpFormatter.setHeader("coolconfig - Configuration tool for Collabora Online.\n"
+    helpFormatter.setHeader("coolconfig - Configuration tool for CO Clone.\n"
                             "\n"
                             "Some options make sense only with a specific command.\n\n"
                             "Options:");

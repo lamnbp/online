@@ -1697,7 +1697,7 @@ msgstr "Aipamenak eguneratzen"
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
 
@@ -2507,8 +2507,8 @@ msgid "Creating copy..."
 msgstr "Kopia sortzen..."
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
-msgstr "Collabora Online-ren ongi etorria"
+msgid "CO Clone Welcome"
+msgstr "CO Clone-ren ongi etorria"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
 msgid "Explore The New %coolVersion"
@@ -2516,8 +2516,8 @@ msgstr "Begiratu %coolVersion berria"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
-msgstr "Collabora Online Garapen Edizioa"
+msgid "CODE Clone"
+msgstr "CO Clone Garapen Edizioa"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
 msgid ""
@@ -2540,12 +2540,12 @@ msgstr "Ezagutu aldaketa guztiak"
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 "Begiratu <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">argitalpen-oharrak</a> eta ikasi guztia azken "
-"Collabora Online Garapen Edizioaz, etxeko erabiltzaileei eta talde txikiei "
+"CO Clone Garapen Edizioaz, etxeko erabiltzaileei eta talde txikiei "
 "zuzenduta."
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:48-7
@@ -2695,7 +2695,7 @@ msgstr ""
 #~ msgid "Server is recycling and will be available shortly"
 #~ msgstr "Zerbitzaria birziklatzen ari da eta laster egongo da erabilgarri"
 
-#~ msgid "Oops, there is a problem connecting to Collabora Online : "
+#~ msgid "Oops, there is a problem connecting to CO Clone : "
 #~ msgstr "Arazo bat dago Collabora Onlinera konektatzean: "
 
 #~ msgid "Number of views"

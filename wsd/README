@@ -1,10 +1,10 @@
-Collabora Online WebSocket server
+CO Clone WebSocket server
 =================================
 
 Dependencies
 ------------
 
-Collabora Online WebSocket server has the following dependencies:
+CO Clone WebSocket server has the following dependencies:
 
 * libpng
 * Poco library: https://pocoproject.org/
@@ -184,12 +184,12 @@ Unless you want to test SSL itself, it is easier to go for the non-SSL option.
 
 Setup Nextcloud or ownCloud on localhost, and install the richdocuments app.
 Good tutorials exist how to install ownCloud or Nextcloud, we don't repeat
-them here. richdocuments is called Collabora Online in the respective app
+them here. richdocuments is called CO Clone in the respective app
 stores / marketplaces / whatever.
 
 When you have a running Nextcloud or ownCloud instance at
 http://localhost/nextcloud or at http://localhost/owncloud
-go to Collabora Online settings, and set the WOPI URL to
+go to CO Clone settings, and set the WOPI URL to
 http://localhost:9980
 
 Then in the build tree, edit the generated coolwsd.xml and set ssl setting to

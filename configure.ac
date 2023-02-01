@@ -44,7 +44,7 @@ AC_SUBST([COOLWSD_VERSION_MICRO])
 AC_SUBST([COOLWSD_VERSION_NANO])
 AC_SUBST([COOLWSD_VERSION])
 
-AC_DEFINE_UNQUOTED([COOLWSD_VERSION],[["$COOLWSD_VERSION"]],[Collabora Online WebSocket server version])
+AC_DEFINE_UNQUOTED([COOLWSD_VERSION],[["$COOLWSD_VERSION"]],[CO Clone WebSocket server version])
 
 # try to add a git hash for a version if we're developing
 COOLWSD_VERSION_HASH="$COOLWSD_VERSION"
@@ -54,7 +54,7 @@ if test "z$git_hash" != "z"; then
 fi
 AC_SUBST([COOLWSD_VERSION_HASH])
 
-AC_DEFINE_UNQUOTED([COOLWSD_VERSION_HASH],[["$COOLWSD_VERSION_HASH"]],[Collabora Online git hash if present])
+AC_DEFINE_UNQUOTED([COOLWSD_VERSION_HASH],[["$COOLWSD_VERSION_HASH"]],[CO Clone git hash if present])
 
 AC_CONFIG_SRCDIR([wsd/COOLWSD.cpp])
 
@@ -325,7 +325,7 @@ AC_ARG_ENABLE([ssl],
 
 AC_ARG_WITH([support-public-key],
             AS_HELP_STRING([--with-support-public-key=<public-key-name.pub>],
-                [Implements signed key with expiration required for support. Targeted at Collabora Online Service Providers.]))
+                [Implements signed key with expiration required for support. Targeted at CO Clone Service Providers.]))
 
 AC_ARG_WITH([max-connections],
             AS_HELP_STRING([--with-max-connections],
@@ -767,7 +767,7 @@ AC_SUBST(ENABLE_ANDROIDAPP)
 AM_CONDITIONAL([ENABLE_ANDROIDAPP], [test "$ENABLE_ANDROIDAPP" = "true"])
 AC_SUBST(ANDROID_PACKAGE_NAME)
 
-APP_NAME="Collabora Online Development Edition"
+APP_NAME="CODE Clone"
 if test -n "$with_app_name"; then
    APP_NAME="$with_app_name"
 fi

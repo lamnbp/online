@@ -628,11 +628,11 @@ wopi: <JSON>
 
      Properties mentioned:
      + PostMessageOrigin: See WOPI specs for more information
-     + HideSaveOption: (boolean): If Collabora Online should hide the save options
-     + HidePrintOption: (boolean): If Collabora Online should hide print options
-     + HideExportOption: (boolean): If Collabora Online should hide the export options
+     + HideSaveOption: (boolean): If CO Clone should hide the save options
+     + HidePrintOption: (boolean): If CO Clone should hide print options
+     + HideExportOption: (boolean): If CO Clone should hide the export options
        this implies 'Download as' options in file menu
-     + HideRepairOption: (boolean): If Collabora Online should hide the Repair
+     + HideRepairOption: (boolean): If CO Clone should hide the Repair
        undo functionality
 
 versionrestore: <action>
@@ -976,9 +976,9 @@ documents <pid> <filename> <number of views> <memory consumed> <elapsed time> <i
     Each set document attributes is separated by a newline.
 
 mem_consumed <memory>
-    Total memory being consumed by Collabora Online.
+    Total memory being consumed by CO Clone.
 total_avail_mem <memory>
-    Total memory available to whole Collabora Online. This takes into account
+    Total memory available to whole CO Clone. This takes into account
     the memproportion setting, if set by the user, when calculating the amount
     of memory available to the process.
 

@@ -1698,10 +1698,10 @@ msgstr "A atualizar as citações"
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
-"Desvincular as citações impedirá que o Collabora Online atualize as citações "
+"Desvincular as citações impedirá que o CO Clone atualize as citações "
 "e a bibliografia neste documento."
 
 #: src/control/Parts.js:432
@@ -2516,8 +2516,8 @@ msgid "Creating copy..."
 msgstr "Criar uma cópia..."
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
-msgstr "Bem-vindo ao Collabora Online"
+msgid "CO Clone Welcome"
+msgstr "Bem-vindo ao CO Clone"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
 msgid "Explore The New %coolVersion"
@@ -2525,8 +2525,8 @@ msgstr "Explore a nova %coolVersion"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
-msgstr "Collabora Online Edição Desenvolvimento"
+msgid "CODE Clone"
+msgstr "CO Clone Edição Desenvolvimento"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
 msgid ""
@@ -2549,12 +2549,12 @@ msgstr "Descubra todas as alterações"
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 "Veja as <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">novidades da versão</a> e saiba tudo sobre: a "
-"mais recente Collabora Online Development Edition, voltada para utilizadores "
+"mais recente CODE Clone, voltada para utilizadores "
 "domésticos e pequenas equipas."
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:48-7
@@ -2669,8 +2669,8 @@ msgstr ""
 #~ "lateral nativa, nova lista de avatares, gravação assíncrona, verificação "
 #~ "ortográfica mais rápida e muito mais."
 
-#~ msgid "Integrate Collabora Online into your webapp"
-#~ msgstr "Integre o Collabora Online no seu webapp"
+#~ msgid "Integrate CO Clone into your webapp"
+#~ msgstr "Integre o CO Clone no seu webapp"
 
 #~ msgid "Or get involved in the development"
 #~ msgstr "Ou junte-se à comunidade de desenvolvimento"
@@ -2678,7 +2678,7 @@ msgstr ""
 #, javascript-format
 #~ msgid ""
 #~ "Learn more about integrating into your web application in the <a href="
-#~ "\"%coolSdkURL\" target=\"_blank\">Collabora Online SDK</a>. Or head over to "
+#~ "\"%coolSdkURL\" target=\"_blank\">CO Clone SDK</a>. Or head over to "
 #~ "the <a href=\"%coolStepByStepURL\" target=\"_blank\">step-by-step "
 #~ "instructions</a> and build CODE from scratch. You can also help out with <a "
 #~ "href=\"%coolTranslationsURL\" target=\"_blank\">translations</a> or by <a "
@@ -2686,7 +2686,7 @@ msgstr ""
 #~ "all the essential steps on how to reproduce it."
 #~ msgstr ""
 #~ "Saiba mais sobre a integração na sua aplicação web no <a href=\"%coolSdkURL\""
-#~ " target=\"_blank\">Collabora Online SDK</a>. Ou leia as <a href=\"%"
+#~ " target=\"_blank\">CO Clone SDK</a>. Ou leia as <a href=\"%"
 #~ "coolStepByStepURL\" target=\"_blank\">instruções passo a passo</a> e "
 #~ "construa CODE do nada. Também pode ajudar com <a href=\"%"
 #~ "coolTranslationsURL\" target=\"_blank\">traduções</a> ou <a href=\"%"
@@ -2772,8 +2772,8 @@ msgstr ""
 #~ msgid "Server is recycling and will be available shortly"
 #~ msgstr "O servidor está em manutenção e estará disponível brevemente."
 
-#~ msgid "Oops, there is a problem connecting to Collabora Online : "
-#~ msgstr "Ocorreu um problema ao estabelecer ligação ao Collabora Online: "
+#~ msgid "Oops, there is a problem connecting to CO Clone : "
+#~ msgstr "Ocorreu um problema ao estabelecer ligação ao CO Clone: "
 
 #~ msgid "Number of views"
 #~ msgstr "Número de visualizações"

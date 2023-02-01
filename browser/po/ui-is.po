@@ -1694,10 +1694,10 @@ msgstr "Uppfæri tilvitnanir"
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
-"Aftenging tilvitnana mun koma í veg fyrir að Collabora Online geti uppfært "
+"Aftenging tilvitnana mun koma í veg fyrir að CO Clone geti uppfært "
 "tilvitnanir og heimildaskrár í þessu skjali."
 
 #: src/control/Parts.js:432
@@ -2505,8 +2505,8 @@ msgid "Creating copy..."
 msgstr "Bý til afrit..."
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
-msgstr "Velkomin í Collabora Online"
+msgid "CO Clone Welcome"
+msgstr "Velkomin í CO Clone"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
 msgid "Explore The New %coolVersion"
@@ -2514,8 +2514,8 @@ msgstr "Kynntu þér nýju útgáfuna af %coolVersion"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
-msgstr "þróunarútgáfu Collabora Online"
+msgid "CODE Clone"
+msgstr "þróunarútgáfu CO Clone"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
 msgid ""
@@ -2538,12 +2538,12 @@ msgstr "Sjá allar breytingarnar"
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 "Skoðaðu <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">útgáfuupplýsingarnar</a> og lærðu allt um: "
-"nýjustu þróunarútgáfu Collabora Online, sem hönnuð er fyrir heimanotendur og "
+"nýjustu þróunarútgáfu CO Clone, sem hönnuð er fyrir heimanotendur og "
 "smærri teymi."
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:48-7
@@ -2629,8 +2629,8 @@ msgstr ""
 #~ msgid "Explore the new %coolVersion"
 #~ msgstr "Kanna nýju %coolVersion"
 
-#~ msgid "Integrate Collabora Online into your webapp"
-#~ msgstr "Samþættu Collabora Online við vefhugbúnaðinn þinn"
+#~ msgid "Integrate CO Clone into your webapp"
+#~ msgstr "Samþættu CO Clone við vefhugbúnaðinn þinn"
 
 #~ msgid "Or get involved in the development"
 #~ msgstr "Eða taktu þátt í þróuninni"
@@ -2711,8 +2711,8 @@ msgstr ""
 #~ msgid "Server is recycling and will be available shortly"
 #~ msgstr "Þjónninn er að keyra sig upp og verður tiltækur innan skamms"
 
-#~ msgid "Oops, there is a problem connecting to Collabora Online : "
-#~ msgstr "Úbbs, það kom upp villa við að tengjast Collabora Online : "
+#~ msgid "Oops, there is a problem connecting to CO Clone : "
+#~ msgstr "Úbbs, það kom upp villa við að tengjast CO Clone : "
 
 #~ msgid "Number of views"
 #~ msgstr "Fjöldi skoðana"

@@ -1714,7 +1714,7 @@ msgstr ""
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
 
@@ -2460,7 +2460,7 @@ msgid "Creating copy..."
 msgstr "복사본 만드는 중..."
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
+msgid "CO Clone Welcome"
 msgstr ""
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
@@ -2469,7 +2469,7 @@ msgstr ""
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
+msgid "CODE Clone"
 msgstr ""
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
@@ -2488,7 +2488,7 @@ msgstr ""
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 
@@ -2577,7 +2577,7 @@ msgstr ""
 #~ msgid "Server is recycling and will be available shortly"
 #~ msgstr "서버를 재부팅하는 중으로 곧 사용이 가능합니다."
 
-#~ msgid "Oops, there is a problem connecting to Collabora Online : "
+#~ msgid "Oops, there is a problem connecting to CO Clone : "
 #~ msgstr "리브레오피스 온라인에 연결하는데 문제가 발생하였습니다. : "
 
 #~ msgid "Number of views"

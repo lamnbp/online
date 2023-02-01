@@ -79,10 +79,10 @@
 /* Define to 1 if you have the <unistd.h> header file. */
 #define HAVE_UNISTD_H 1
 
-/* Collabora Online WebSocket server version */
+/* CO Clone WebSocket server version */
 #define COOLWSD_VERSION "@COOLWSD_VERSION@"
 
-/* Collabora Online git hash if present */
+/* CO Clone git hash if present */
 #define COOLWSD_VERSION_HASH "@COOLWSD_VERSION_HASH@"
 
 /* Path to LibreOffice installation */

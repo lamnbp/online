@@ -1,7 +1,7 @@
 apiVersion: v2
 type: "application"
 name: collabora-online
-description: Collabora Online helm chart
+description: CO Clone helm chart
 
 version: 1.0.0
 appVersion: "22.05.6.3.1"

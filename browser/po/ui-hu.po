@@ -1700,7 +1700,7 @@ msgstr "Hivatkozások frissítése"
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
 "A hivatkozások véglegesítése azt jeleni, hogy megszűnik a kapcsolat a "
@@ -2516,8 +2516,8 @@ msgid "Creating copy..."
 msgstr "Másolat létrehozása..."
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
-msgstr "Üdvözli a Collabora Online"
+msgid "CO Clone Welcome"
+msgstr "Üdvözli a CO Clone"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
 msgid "Explore The New %coolVersion"
@@ -2525,8 +2525,8 @@ msgstr "Fedezze fel az új %coolVersion-t"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
-msgstr "Collabora Online Development Edition"
+msgid "CODE Clone"
+msgstr "CODE Clone"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
 msgid ""
@@ -2548,7 +2548,7 @@ msgstr "Fedezze fel az összes újdonságot"
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 "Olvassa el az <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
@@ -2668,8 +2668,8 @@ msgstr ""
 #~ "teljesítménynövekedése, az új natív oldalsáv, az újratervezett avatárlista, "
 #~ "az aszinkron mentés, a gyorsabb helyesírás-ellenőrzés stb."
 
-#~ msgid "Integrate Collabora Online into your webapp"
-#~ msgstr "Integrálja a Collabora Online-t saját webalkalmazásába"
+#~ msgid "Integrate CO Clone into your webapp"
+#~ msgstr "Integrálja a CO Clone-t saját webalkalmazásába"
 
 #~ msgid "Or get involved in the development"
 #~ msgstr "Vagy vegyen részt a fejlesztésben"
@@ -2677,16 +2677,16 @@ msgstr ""
 #, javascript-format
 #~ msgid ""
 #~ "Learn more about integrating into your web application in the <a href="
-#~ "\"%coolSdkURL\" target=\"_blank\">Collabora Online SDK</a>. Or head over to "
+#~ "\"%coolSdkURL\" target=\"_blank\">CO Clone SDK</a>. Or head over to "
 #~ "the <a href=\"%coolStepByStepURL\" target=\"_blank\">step-by-step "
 #~ "instructions</a> and build CODE from scratch. You can also help out with <a "
 #~ "href=\"%coolTranslationsURL\" target=\"_blank\">translations</a> or by <a "
 #~ "href=\"%coolBugreportURL\" target=\"_blank\">filing a bug report</a> with "
 #~ "all the essential steps on how to reproduce it."
 #~ msgstr ""
-#~ "Ha szeretné megtudni, hogyan integrálja a Collabora Online-t saját "
+#~ "Ha szeretné megtudni, hogyan integrálja a CO Clone-t saját "
 #~ "webalkalmazásába, látogasson el a <a href=\"%coolSdkURL\" target=\"_blank\">"
-#~ "Collabora Online SDK</a> weboldalra. Vagy nézze meg a CODE forráskódból való "
+#~ "CO Clone SDK</a> weboldalra. Vagy nézze meg a CODE forráskódból való "
 #~ "lefordításának <a href=\"%coolStepByStepURL\" target=\"_blank\">részletes "
 #~ "utasításait</a>. Segíthet a <a href=\"%coolTranslationsURL\" target=\""
 #~ "_blank\">fordításban</a> is, vagy ha hibát talál, <a href=\"%"
@@ -2783,8 +2783,8 @@ msgstr ""
 #~ msgid "Server is recycling and will be available shortly"
 #~ msgstr "A kiszolgáló éppen újraindul, hamarosan elérhető lesz."
 
-#~ msgid "Oops, there is a problem connecting to Collabora Online : "
-#~ msgstr "Probléma történt a Collabora Online-hoz kapcsolódáskor: "
+#~ msgid "Oops, there is a problem connecting to CO Clone : "
+#~ msgstr "Probléma történt a CO Clone-hoz kapcsolódáskor: "
 
 #~ msgid "Number of views"
 #~ msgstr "Nézetek száma"

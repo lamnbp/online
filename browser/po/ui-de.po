@@ -1703,10 +1703,10 @@ msgstr "Aktualisiere Zitate"
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
-"Das Aufheben der Verknüpfung von Zitaten führt dazu, dass Collabora Online "
+"Das Aufheben der Verknüpfung von Zitaten führt dazu, dass CO Clone "
 "die Zitate und die Bibliographie in diesem Dokument nicht aktualisieren kann."
 
 #: src/control/Parts.js:432
@@ -2543,8 +2543,8 @@ msgid "Creating copy..."
 msgstr "Kopie erstellen …"
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
-msgstr "Collabora Online Begrüßung"
+msgid "CO Clone Welcome"
+msgstr "CO Clone Begrüßung"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
 msgid "Explore The New %coolVersion"
@@ -2552,8 +2552,8 @@ msgstr "Entdecken Sie die neue %coolVersion"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
-msgstr "Collabora Online Entwicklungsedition"
+msgid "CODE Clone"
+msgstr "CO Clone Entwicklungsedition"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
 msgid ""
@@ -2576,12 +2576,12 @@ msgstr "Entdecken Sie alle Neuigkeiten"
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 "Schauen Sie sich die <a target=\"_blank\" href=\"https://www.collaboraoffice."
 "com/code-22-05-release-notes/\">Release Notes</a> an und erfahren Sie alles "
-"über die neueste Collabora Online Development Edition, die für Heimanwender "
+"über die neueste CODE Clone, die für Heimanwender "
 "und kleine Teams geeignet ist."
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:48-7
@@ -2697,8 +2697,8 @@ msgstr ""
 #~ "Avatarübersicht, asynchrones Speichern, schnellere Rechtschreibprüfung "
 #~ "und mehr."
 
-#~ msgid "Integrate Collabora Online into your webapp"
-#~ msgstr "Integrieren Sie Collabora Online in Ihre Webapp"
+#~ msgid "Integrate CO Clone into your webapp"
+#~ msgstr "Integrieren Sie CO Clone in Ihre Webapp"
 
 #~ msgid "Or get involved in the development"
 #~ msgstr "Oder beteiligen Sie sich an der Entwicklung"
@@ -2706,7 +2706,7 @@ msgstr ""
 #, javascript-format
 #~ msgid ""
 #~ "Learn more about integrating into your web application in the <a href="
-#~ "\"%coolSdkURL\" target=\"_blank\">Collabora Online SDK</a>. Or head over "
+#~ "\"%coolSdkURL\" target=\"_blank\">CO Clone SDK</a>. Or head over "
 #~ "to the <a href=\"%coolStepByStepURL\" target=\"_blank\">step-by-step "
 #~ "instructions</a> and build CODE from scratch. You can also help out with "
 #~ "<a href=\"%coolTranslationsURL\" target=\"_blank\">translations</a> or by "
@@ -2714,7 +2714,7 @@ msgstr ""
 #~ "with all the essential steps on how to reproduce it."
 #~ msgstr ""
 #~ "Erfahren Sie mehr über die Integration in Ihre Webanwendung im <a href="
-#~ "\"%coolSdkURL\" target=\"_blank\">Collabora Online SDK</a>. Oder besuchen "
+#~ "\"%coolSdkURL\" target=\"_blank\">CO Clone SDK</a>. Oder besuchen "
 #~ "Sie die <a href=\"%coolStepByStepURL\" target=\"_blank\">Schritt-für-"
 #~ "Schritt-Anleitung</a> und erstellen Sie CODE von Grund auf. Sie können "
 #~ "auch bei <a href=\"%coolTranslationsURL\" target=\"_blank"
@@ -2801,5 +2801,5 @@ msgstr ""
 #~ msgid "Server is recycling and will be available shortly"
 #~ msgstr "Der Server wird neu gestartet und ist demnächst wieder verfügbar"
 
-#~ msgid "Oops, there is a problem connecting to Collabora Online : "
-#~ msgstr "Es ist ein Fehler beim Verbinden mit Collabora Online aufgetreten: "
+#~ msgid "Oops, there is a problem connecting to CO Clone : "
+#~ msgstr "Es ist ein Fehler beim Verbinden mit CO Clone aufgetreten: "

@@ -15,9 +15,9 @@ ARG repo
 ARG version
 
 # type: can be
-# 'code' - Collabora Online Development Edition
-# 'cool' - Collabora Online, to build this you need to give your secret URL part from https://support.collaboraoffice.com, i.e. you have to be Collabora partner or customer
-# 'key'  - Collabora Online, the license key enabled version.
+# 'code' - CODE Clone
+# 'cool' - CO Clone, to build this you need to give your secret URL part from https://support.collaboraoffice.com, i.e. you have to be Collabora partner or customer
+# 'key'  - CO Clone, the license key enabled version.
 # Optional. The default is 'code'.
 ARG type
 
@@ -27,12 +27,12 @@ ARG nobrand
 # Environment variables
 ENV LC_CTYPE C.UTF-8
 
-# Setup scripts for Collabora Online
+# Setup scripts for CO Clone
 ADD /scripts/install-collabora-online-ubuntu.sh /
 RUN --mount=type=secret,id=secret_key bash install-collabora-online-ubuntu.sh
 RUN rm -rf /install-collabora-online-ubuntu.sh
 
-# Start script for Collabora Online
+# Start script for CO Clone
 ADD /scripts/start-collabora-online.sh /
 ADD /scripts/start-collabora-online.pl /
 

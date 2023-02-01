@@ -1701,7 +1701,7 @@ msgstr ""
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
 
@@ -2480,7 +2480,7 @@ msgid "Creating copy..."
 msgstr "يتم الآن إنشاء نسخة..."
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
+msgid "CO Clone Welcome"
 msgstr ""
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
@@ -2490,7 +2490,7 @@ msgstr "استكشاف %coolVersion الجديد"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
+msgid "CODE Clone"
 msgstr "إصدار تطوير Collabora عبر الإنترنت"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
@@ -2510,7 +2510,7 @@ msgstr "اكتشف كل التغييرات"
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 
@@ -2605,8 +2605,8 @@ msgstr ""
 #~ "وقائمة الصور الرمزية الجديدة التي أعيد العمل بها والحفظ غير المتزامن "
 #~ "والتدقيق الإملائي الأسرع والمزيد."
 
-#~ msgid "Integrate Collabora Online into your webapp"
-#~ msgstr "دمج Collabora Online في تطبيق الويب الخاص بك"
+#~ msgid "Integrate CO Clone into your webapp"
+#~ msgstr "دمج CO Clone في تطبيق الويب الخاص بك"
 
 #~ msgid "Or get involved in the development"
 #~ msgstr "أو شارك في التطوير"
@@ -2614,7 +2614,7 @@ msgstr ""
 #, javascript-format
 #~ msgid ""
 #~ "Learn more about integrating into your web application in the <a href="
-#~ "\"%coolSdkURL\" target=\"_blank\">Collabora Online SDK</a>. Or head over to "
+#~ "\"%coolSdkURL\" target=\"_blank\">CO Clone SDK</a>. Or head over to "
 #~ "the <a href=\"%coolStepByStepURL\" target=\"_blank\">step-by-step "
 #~ "instructions</a> and build CODE from scratch. You can also help out with <a "
 #~ "href=\"%coolTranslationsURL\" target=\"_blank\">translations</a> or by <a "
@@ -2622,7 +2622,7 @@ msgstr ""
 #~ "all the essential steps on how to reproduce it."
 #~ msgstr ""
 #~ "تعرف على المزيد حول الدمج في تطبيق الويب الخاص بك في <a href=\"%coolSdkURL\" "
-#~ "target=\"_blank\"> Collabora Online SDK </a>. أو توجه إلى <a href=\"%"
+#~ "target=\"_blank\"> CO Clone SDK </a>. أو توجه إلى <a href=\"%"
 #~ "coolStepByStepURL\" target=\"_blank\">تعليمات خطوه بخطوه</a>وأنشئ الكود من "
 #~ "البداية. يمكنك أيضًا المساعدة من خلال <a href=\"%coolTranslationsURL\" "
 #~ "target=\"_blank\">الترجمات</a> أو عن طريق <a href=\"%coolBugreportURL\" "
@@ -2643,7 +2643,7 @@ msgstr ""
 #~ msgid "Server is recycling and will be available shortly"
 #~ msgstr "يُعاد تشغيل الخادوم وسيتوفر مجدّدًا قريبًا"
 
-#~ msgid "Oops, there is a problem connecting to Collabora Online : "
+#~ msgid "Oops, there is a problem connecting to CO Clone : "
 #~ msgstr "آخ، حدثت مشكلة بالاتصال ب‍«ليبر أوفيس أون‌لاين» : "
 
 #~ msgid "Number of views"

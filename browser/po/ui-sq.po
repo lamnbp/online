@@ -1701,10 +1701,10 @@ msgstr "Po përditësohen citime"
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
-"Heqja e lidhjeve për te citime do të pengojë Collabora Online të përditësojë "
+"Heqja e lidhjeve për te citime do të pengojë CO Clone të përditësojë "
 "citime dhe bibliografi në këtë dokument."
 
 #: src/control/Parts.js:432
@@ -2523,8 +2523,8 @@ msgid "Creating copy..."
 msgstr "Po krijohet kopje…"
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
-msgstr "Mirëseardhje në Collabora Online"
+msgid "CO Clone Welcome"
+msgstr "Mirëseardhje në CO Clone"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
 msgid "Explore The New %coolVersion"
@@ -2532,8 +2532,8 @@ msgstr "Eksploroni %coolVersion e Ri"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
-msgstr "Edicioni Zhvillim i Collabora Online"
+msgid "CODE Clone"
+msgstr "Edicioni Zhvillim i CO Clone"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
 msgid ""
@@ -2556,12 +2556,12 @@ msgstr "Shfletoni Krejt Ndryshimet"
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 "Shihni <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">shënime hedhjeje në qarkullim</a> dhe mësoni "
-"gjithçka mbi: Edicionin më të ri Zhvillim të Collabora Online, i menduar për "
+"gjithçka mbi: Edicionin më të ri Zhvillim të CO Clone, i menduar për "
 "përdorues të thjeshtë dhe ekipe të vegjël."
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:48-7

@@ -1699,10 +1699,10 @@ msgstr "Aktualiziranje citata"
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
-"Uklanjanje poveznica citata spriječit će Collabora Online aktualizirati "
+"Uklanjanje poveznica citata spriječit će CO Clone aktualizirati "
 "citate i bibliografiju u ovom dokumentu."
 
 #: src/control/Parts.js:432
@@ -2509,8 +2509,8 @@ msgid "Creating copy..."
 msgstr "Stvaranje kopije …"
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
-msgstr "Collabora Online dobrodošlica"
+msgid "CO Clone Welcome"
+msgstr "CO Clone dobrodošlica"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
 msgid "Explore The New %coolVersion"
@@ -2518,8 +2518,8 @@ msgstr "Istraži novu %coolVersion"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
-msgstr "Collabora Online izdanje za razvoj"
+msgid "CODE Clone"
+msgstr "CO Clone izdanje za razvoj"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
 msgid ""
@@ -2542,12 +2542,12 @@ msgstr "Otkrij sve promjene"
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 "Pregledaj <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">napomene uz izdanje</a> i saznaj sve o: "
-"Najnovije Collabora Online izdanje za razvoj, namijenjen kućnim korisnicima "
+"Najnovije CO Clone izdanje za razvoj, namijenjen kućnim korisnicima "
 "i malim timovima."
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:48-7
@@ -2697,8 +2697,8 @@ msgstr ""
 #~ msgid "Server is recycling and will be available shortly"
 #~ msgstr "Poslužitelj se ponovo pokreće i bit će uskoro dostupan"
 
-#~ msgid "Oops, there is a problem connecting to Collabora Online : "
-#~ msgstr "Ups, postoji problem prilikom povezivanja s Collabora Online: "
+#~ msgid "Oops, there is a problem connecting to CO Clone : "
+#~ msgstr "Ups, postoji problem prilikom povezivanja s CO Clone: "
 
 #~ msgid "Number of views"
 #~ msgstr "Broj pregleda"

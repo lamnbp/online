@@ -1697,10 +1697,10 @@ msgstr "Оновлення цитат"
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
-"Від’єднання цитат не дозволить Collabora Online оновлювати цитати та "
+"Від’єднання цитат не дозволить CO Clone оновлювати цитати та "
 "бібліографію в цьому документі."
 
 #: src/control/Parts.js:432
@@ -2506,8 +2506,8 @@ msgid "Creating copy..."
 msgstr "Створення копії..."
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
-msgstr "Вітаємо в Collabora Online"
+msgid "CO Clone Welcome"
+msgstr "Вітаємо в CO Clone"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
 msgid "Explore The New %coolVersion"
@@ -2515,8 +2515,8 @@ msgstr "Ознайомтеся з новою %coolVersion"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
-msgstr "Collabora Online Development Edition"
+msgid "CODE Clone"
+msgstr "CODE Clone"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
 msgid ""
@@ -2539,12 +2539,12 @@ msgstr "Дізнайтеся про всі зміни"
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 "Перегляньте <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">примітки до випуску</a> та дізнайтеся все про: "
-"Новий випуск Collabora Online Development Edition, створений для звичайних "
+"Новий випуск CODE Clone, створений для звичайних "
 "користувачів і невеликих команд."
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:48-7
@@ -2659,8 +2659,8 @@ msgstr ""
 #~ "новим списком аватарів, асинхронним збереженням, швидшою перевіркою "
 #~ "орфографії тощо."
 
-#~ msgid "Integrate Collabora Online into your webapp"
-#~ msgstr "Інтегруйте Collabora Online у свій вебзастосунок"
+#~ msgid "Integrate CO Clone into your webapp"
+#~ msgstr "Інтегруйте CO Clone у свій вебзастосунок"
 
 #~ msgid "Or get involved in the development"
 #~ msgstr "Або беріть участь у розробці"
@@ -2668,7 +2668,7 @@ msgstr ""
 #, javascript-format
 #~ msgid ""
 #~ "Learn more about integrating into your web application in the <a href="
-#~ "\"%coolSdkURL\" target=\"_blank\">Collabora Online SDK</a>. Or head over to "
+#~ "\"%coolSdkURL\" target=\"_blank\">CO Clone SDK</a>. Or head over to "
 #~ "the <a href=\"%coolStepByStepURL\" target=\"_blank\">step-by-step "
 #~ "instructions</a> and build CODE from scratch. You can also help out with <a "
 #~ "href=\"%coolTranslationsURL\" target=\"_blank\">translations</a> or by <a "
@@ -2676,7 +2676,7 @@ msgstr ""
 #~ "all the essential steps on how to reproduce it."
 #~ msgstr ""
 #~ "Докладніше про інтеграцію до свого вебзастосунку <a href=\"%coolSdkURL\" "
-#~ "target=\"_blank\">Collabora Online SDK</a>. Або перейдіть до <a href=\"%"
+#~ "target=\"_blank\">CO Clone SDK</a>. Або перейдіть до <a href=\"%"
 #~ "coolStepByStepURL\" target=\"_blank\">покрокових інструкцій</a> і створіть "
 #~ "CODE з нуля. Ви також можете допомогти з <a href=\"%coolTranslationsURL\" "
 #~ "target=\"_blank\">перекладами</a> або <a href=\"%coolBugreportURL\" target=\""
@@ -2765,8 +2765,8 @@ msgstr ""
 #~ msgid "Server is recycling and will be available shortly"
 #~ msgstr "Сервер перезапускається і буде доступним найближчим часом"
 
-#~ msgid "Oops, there is a problem connecting to Collabora Online : "
-#~ msgstr "Халепа при під'єднання до Collabora Online : "
+#~ msgid "Oops, there is a problem connecting to CO Clone : "
+#~ msgstr "Халепа при під'єднання до CO Clone : "
 
 #~ msgid "Number of views"
 #~ msgstr "Число переглядів"

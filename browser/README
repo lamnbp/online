@@ -1,7 +1,7 @@
-Leaflet platform for Collabora Online
+Leaflet platform for CO Clone
 ========================================
 
-This is the client part of Collabora Online.  For the server part, see the
+This is the client part of CO Clone.  For the server part, see the
 ../wsd/README, and install it first.
 
 Build dependencies

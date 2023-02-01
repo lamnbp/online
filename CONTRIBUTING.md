@@ -1,13 +1,13 @@
-# Contributing to Collabora Online
+# Contributing to CO Clone
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-The following is a set of rules and guidelines for contributing to Collabora Online. Please feel free to propose changes to this document in a pull request.
+The following is a set of rules and guidelines for contributing to CO Clone. Please feel free to propose changes to this document in a pull request.
 
 
 ## Submitting issues
 
-If you have questions about how to install or use Collabora Online, please direct these to our [forum][forum].
-If you have issues or questions about Collabora Online development, you may join us on [IRC][irc] or [Telegram][telegram].
+If you have questions about how to install or use CO Clone, please direct these to our [forum][forum].
+If you have issues or questions about CO Clone development, you may join us on [IRC][irc] or [Telegram][telegram].
 
 ### Guidelines
 * Please search the existing issues first, it's likely that your issue was already reported or even fixed.
@@ -27,7 +27,7 @@ Help us to maximize the effort we can spend fixing issues and adding new feature
 
 ## Contributing to Source Code
 
-Thanks for wanting to contribute source code to Collabora Online. You rock!
+Thanks for wanting to contribute source code to CO Clone. You rock!
 
 1. Just [fork the main repo](https://github.com/CollaboraOnline/online/fork)
 2. Build it ([on Linux](https://collaboraonline.github.io/post/build-code/) or [on any platform](https://forum.collaboraonline.com/t/start-developing-cool-on-any-platform-in-5-minutes/52))
@@ -41,7 +41,7 @@ And if you get stuck at any point, just drop by one of our [communication channe
 
 ### Sign your work
 
-We use the Developer Certificate of Origin (DCO) as a additional safeguard for the Collabora Online project. This is a well established and widely used mechanism to assure contributors have confirmed their right to license their contribution under the project's license. Please read [README.CONTRIBUTING.md](README.CONTRIBUTING.md). If you can certify it, then just add a line to every git commit message:
+We use the Developer Certificate of Origin (DCO) as a additional safeguard for the CO Clone project. This is a well established and widely used mechanism to assure contributors have confirmed their right to license their contribution under the project's license. Please read [README.CONTRIBUTING.md](README.CONTRIBUTING.md). If you can certify it, then just add a line to every git commit message:
 
 ````
   Signed-off-by: Random J Developer <random@developer.example.org>

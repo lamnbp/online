@@ -14,7 +14,7 @@ Name:           coolwsd
 Version:        @PACKAGE_VERSION@
 Release:        1%{?dist}
 Vendor:         %{vendor}
-Summary:        Collabora Online WebSocket Daemon
+Summary:        CO Clone WebSocket Daemon
 License:        EULA
 Source0:        coolwsd-@PACKAGE_VERSION@.tar.gz
 BuildRequires:  libcap-devel libpng-devel pam-devel gcc-c++ cppunit-devel pam-devel fontconfig make

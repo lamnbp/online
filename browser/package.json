@@ -1,7 +1,7 @@
 {
   "name": "cool",
   "version": "0.8.0-dev",
-  "description": "Collabora Online front-end",
+  "description": "CO Clone front-end",
   "devDependencies": {
     "@braintree/sanitize-url": "6.0.0",
     "@types/mocha": "8.2.0",

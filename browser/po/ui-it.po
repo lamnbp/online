@@ -1705,10 +1705,10 @@ msgstr "Aggiornando citazioni"
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
-"Lo scollegamento delle citazioni impedirà a Collabora Online di aggiornare "
+"Lo scollegamento delle citazioni impedirà a CO Clone di aggiornare "
 "le citazioni e la bibliografia in questo documento."
 
 #: src/control/Parts.js:432
@@ -2516,8 +2516,8 @@ msgid "Creating copy..."
 msgstr "Creazione della copia..."
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
-msgstr "Benvenuto su Collabora Online"
+msgid "CO Clone Welcome"
+msgstr "Benvenuto su CO Clone"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
 msgid "Explore The New %coolVersion"
@@ -2525,8 +2525,8 @@ msgstr "Esplora la nuova %coolVersion"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
-msgstr "Collabora Online Edizione di Sviluppo"
+msgid "CODE Clone"
+msgstr "CO Clone Edizione di Sviluppo"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
 msgid ""
@@ -2549,12 +2549,12 @@ msgstr "Scopri tutti i cambiamenti"
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 "Controlla le <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">note di rilascio</a> e scopri tutto riguardo: "
-"L'ultima edizione di sviluppo di Collabora Online, rivolto agli utenti "
+"L'ultima edizione di sviluppo di CO Clone, rivolto agli utenti "
 "domestici e ai piccoli team."
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:48-7
@@ -2701,5 +2701,5 @@ msgstr ""
 #~ msgid "Server is recycling and will be available shortly"
 #~ msgstr "Il server è in fase di riavvio e sarà disponibile a breve"
 
-#~ msgid "Oops, there is a problem connecting to Collabora Online : "
-#~ msgstr "Oops, si è verificato un problema di connessione a Collabora Online: "
+#~ msgid "Oops, there is a problem connecting to CO Clone : "
+#~ msgstr "Oops, si è verificato un problema di connessione a CO Clone: "

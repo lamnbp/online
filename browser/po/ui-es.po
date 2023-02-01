@@ -1699,10 +1699,10 @@ msgstr "Actualizando citas"
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
-"Desvincular las citas impedirá que Collabora Online actualice las citas y la "
+"Desvincular las citas impedirá que CO Clone actualice las citas y la "
 "bibliografía de este documento."
 
 #: src/control/Parts.js:432
@@ -2514,7 +2514,7 @@ msgid "Creating copy..."
 msgstr "Creando una copia…"
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
+msgid "CO Clone Welcome"
 msgstr "Bienvenida de Collabora Online"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
@@ -2523,8 +2523,8 @@ msgstr "Eche un vistazo a la nueva %coolVersion"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
-msgstr "Collabora Online, edición de desarrollo"
+msgid "CODE Clone"
+msgstr "CO Clone, edición de desarrollo"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
 msgid ""
@@ -2547,12 +2547,12 @@ msgstr "Descubra todos los cambios"
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 "Revise las <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">novedades de la versión</a> y conozca todo sobre "
-"la última Collabora Online, edición de desarrollo, destinada a usuarios "
+"la última CO Clone, edición de desarrollo, destinada a usuarios "
 "particulares y equipos de trabajo pequeños."
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:48-7
@@ -2665,8 +2665,8 @@ msgstr ""
 #~ "barra lateral nativa, nueva lista de avatar reelaborada, guardado "
 #~ "asincrónico, revisión ortográfica más rápida y más."
 
-#~ msgid "Integrate Collabora Online into your webapp"
-#~ msgstr "Integre Collabora Online en su aplicación web"
+#~ msgid "Integrate CO Clone into your webapp"
+#~ msgstr "Integre CO Clone en su aplicación web"
 
 #~ msgid "Or get involved in the development"
 #~ msgstr "O involúcrese en el desarrollo"
@@ -2674,7 +2674,7 @@ msgstr ""
 #, javascript-format
 #~ msgid ""
 #~ "Learn more about integrating into your web application in the <a href="
-#~ "\"%coolSdkURL\" target=\"_blank\">Collabora Online SDK</a>. Or head over "
+#~ "\"%coolSdkURL\" target=\"_blank\">CO Clone SDK</a>. Or head over "
 #~ "to the <a href=\"%coolStepByStepURL\" target=\"_blank\">step-by-step "
 #~ "instructions</a> and build CODE from scratch. You can also help out with "
 #~ "<a href=\"%coolTranslationsURL\" target=\"_blank\">translations</a> or by "
@@ -2682,7 +2682,7 @@ msgstr ""
 #~ "with all the essential steps on how to reproduce it."
 #~ msgstr ""
 #~ "Obtenga más información sobre la integración en su aplicación web en <a "
-#~ "href=\"%coolSdkURL\" target=\"_blank\">Collabora Online SDK </a>. O "
+#~ "href=\"%coolSdkURL\" target=\"_blank\">CO Clone SDK </a>. O "
 #~ "diríjase a las <a href=\"%coolStepByStepURL\" target=\"_blank"
 #~ "\">instrucciones paso a paso </a> y compile CODE desde cero. También "
 #~ "puede ayudar con las <a href=\"%coolTranslationsURL\" target=\"_blank"
@@ -2772,8 +2772,8 @@ msgstr ""
 #~ msgid "Server is recycling and will be available shortly"
 #~ msgstr "El servidor está reciclándose y estará disponible pronto"
 
-#~ msgid "Oops, there is a problem connecting to Collabora Online : "
-#~ msgstr "Ha ocurrido un problema al conectar con Collabora Online: "
+#~ msgid "Oops, there is a problem connecting to CO Clone : "
+#~ msgstr "Ha ocurrido un problema al conectar con CO Clone: "
 
 #~ msgid "Number of views"
 #~ msgstr "Número de visualizaciones"

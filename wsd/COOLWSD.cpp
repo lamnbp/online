@@ -2486,12 +2486,6 @@ void COOLWSD::innerInitialize(Application& self)
 
     // Log the connection and document limits.
 #if ENABLE_WELCOME_MESSAGE
-    if (getConfigValue<bool>(conf, "home_mode.enable", false))
-    {
-        COOLWSD::MaxConnections = 20;
-        COOLWSD::MaxDocuments = 10;
-    }
-    else
     {
         conf.setString("feedback.show", "true");
         conf.setString("welcome.enable", "true");
@@ -2925,7 +2919,7 @@ void COOLWSD::displayHelp()
     HelpFormatter helpFormatter(options());
     helpFormatter.setCommand(commandName());
     helpFormatter.setUsage("OPTIONS");
-    helpFormatter.setHeader("Collabora Online WebSocket server.");
+    helpFormatter.setHeader("CO Clone WebSocket server.");
     helpFormatter.format(std::cout);
 }
 

@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Currently the following Collabora Online versions are supported with security updates.
+Currently the following CO Clone versions are supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -13,4 +13,4 @@ Currently the following Collabora Online versions are supported with security up
 
 ## Reporting a Vulnerability
 
-If you find a security vulnerability in Collabora Online please send an email to *officesecurity@lists.freedesktop.org*. 
+If you find a security vulnerability in CO Clone please send an email to *officesecurity@lists.freedesktop.org*. 

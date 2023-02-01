@@ -1701,10 +1701,10 @@ msgstr "Memperbarui sitasi"
 
 #: src/control/Control.Zotero.js:1438
 msgid ""
-"Unlinking citations will prevent Collabora Online from updating citations "
+"Unlinking citations will prevent CO Clone from updating citations "
 "and bibliography in this document."
 msgstr ""
-"Melepas taut sitasi akan mencegah Collabora Online memperbarui sitasi dan "
+"Melepas taut sitasi akan mencegah CO Clone memperbarui sitasi dan "
 "bibliografi dalam dokumen ini."
 
 #: src/control/Parts.js:432
@@ -2517,8 +2517,8 @@ msgid "Creating copy..."
 msgstr "Membuat salinan ..."
 
 #: welcome/welcome.html%2Bhtml.head.title:9-3
-msgid "Collabora Online Welcome"
-msgstr "Selamat Datang di Collabora Online"
+msgid "CO Clone Welcome"
+msgstr "Selamat Datang di CO Clone"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:26-7
 msgid "Explore The New %coolVersion"
@@ -2526,8 +2526,8 @@ msgstr "Jelajahi Sang %coolVersion Baru"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:27-7
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h2:38-7
-msgid "Collabora Online Development Edition"
-msgstr "Collabora Online Edisi Pengembangan"
+msgid "CODE Clone"
+msgstr "CO Clone Edisi Pengembangan"
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.p:28-7
 msgid ""
@@ -2549,12 +2549,12 @@ msgstr "Temukan Semua Perubahan"
 msgid ""
 "Check the <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">release notes</a> and learn all about: The "
-"latest Collabora Online Development Edition, aimed at home users and small "
+"latest CODE Clone, aimed at home users and small "
 "teams."
 msgstr ""
 "Lihat <a target=\"_blank\" href=\"https://www.collaboraoffice.com/"
 "code-22-05-release-notes/\">catatan rilis</a> dan pelajari semua tentang: "
-"Edisi Pengembangan Collabora Online terbaru, ditujukan untuk pengguna "
+"Edisi Pengembangan CO Clone terbaru, ditujukan untuk pengguna "
 "rumahan dan tim kecil."
 
 #: welcome/welcome.html%2Bhtml.body.div.div.div.div.h1:48-7
@@ -2661,8 +2661,8 @@ msgstr ""
 #~ "senarai avatar baru yang dikerjakan ulang, penyimpanan asinkron, pemeriksaan "
 #~ "ejaan yang lebih cepat, dan banyak lagi."
 
-#~ msgid "Integrate Collabora Online into your webapp"
-#~ msgstr "Integrasikan Collabora Online ke aplikasi web Anda"
+#~ msgid "Integrate CO Clone into your webapp"
+#~ msgstr "Integrasikan CO Clone ke aplikasi web Anda"
 
 #~ msgid "Or get involved in the development"
 #~ msgstr "Atau terlibat dalam pengembangan"
@@ -2670,7 +2670,7 @@ msgstr ""
 #, javascript-format
 #~ msgid ""
 #~ "Learn more about integrating into your web application in the <a href="
-#~ "\"%coolSdkURL\" target=\"_blank\">Collabora Online SDK</a>. Or head over to "
+#~ "\"%coolSdkURL\" target=\"_blank\">CO Clone SDK</a>. Or head over to "
 #~ "the <a href=\"%coolStepByStepURL\" target=\"_blank\">step-by-step "
 #~ "instructions</a> and build CODE from scratch. You can also help out with <a "
 #~ "href=\"%coolTranslationsURL\" target=\"_blank\">translations</a> or by <a "
@@ -2678,7 +2678,7 @@ msgstr ""
 #~ "all the essential steps on how to reproduce it."
 #~ msgstr ""
 #~ "Pelajari lebih lanjut tentang mengintegrasikan ke dalam aplikasi web Anda di "
-#~ "<a href=\"%coolSdkURL\" target=\"_blank\">SDK Collabora Online</a>. Atau "
+#~ "<a href=\"%coolSdkURL\" target=\"_blank\">SDK CO Clone</a>. Atau "
 #~ "buka <a href=\"%coolStepByStepURL\" target=\"_blank\">petunjuk langkah demi "
 #~ "langkah</a> dan build CODE dari awal. Anda juga dapat membantu dengan <a "
 #~ "href=\"%coolTranslationsURL\" target=\"_blank\">terjemahan</a> atau dengan "
@@ -2764,5 +2764,5 @@ msgstr ""
 #~ msgid "Server is recycling and will be available shortly"
 #~ msgstr "Peladen sendang mendaur ulang dan akan segera tersedia"
 
-#~ msgid "Oops, there is a problem connecting to Collabora Online : "
+#~ msgid "Oops, there is a problem connecting to CO Clone : "
 #~ msgstr "Ups, ada masalah menyambung ke Collabora Daring: "

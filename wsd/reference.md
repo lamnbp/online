@@ -1,5 +1,5 @@
 
-Collabora Online API
+CO Clone API
 ======================
 
 Documentation has been moved to https://sdk.collaboraonline.com

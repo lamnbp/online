@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for the Collabora Online project
+about: Suggest an idea for the CO Clone project
 title: ''
 labels: enhancement, unconfirmed
 assignees: ''
